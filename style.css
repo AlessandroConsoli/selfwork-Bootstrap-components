@@ -129,9 +129,6 @@
     height: 600px;
 }
 
-.btn-carousel{
-    
-}
 
 .custom-accordion{
     height: 40vh;
@@ -180,7 +177,8 @@ a:hover{
     }
 
     .img-carousel{
-        height: 300px;
+        height: 200px;
     }
+
 
 }
